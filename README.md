@@ -73,7 +73,7 @@ SQL 材料与执行器接口共同构成查询执行实验的阅读入口。
 本仓库按课程 `src/` 源码包组织。使用课程 Rucbase 父工程的 CMake 配置与依赖环境集成该目录，准备 C++17 编译器、GoogleTest、Flex/Bison，以及相应系统库。
 
 ```bash
-git clone https://github.com/VincentLucifer/rebu_DataBase.git
+git clone https://github.com/VincentLucifer/Rucbase-Lab.git
 ```
 
 在课程父工程已配置的构建目录中，可按 `src/execution/README.md` 构建 SQL 实验目标：

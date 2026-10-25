@@ -73,7 +73,7 @@ The SQL material and executor interfaces provide an entry point for studying que
 This repository is organised as a course `src/` source package. Integrate it with the Rucbase parent project's CMake configuration and dependencies, including a C++17 compiler, GoogleTest, Flex/Bison and the required system libraries.
 
 ```bash
-git clone https://github.com/VincentLucifer/rebu_DataBase.git
+git clone https://github.com/VincentLucifer/Rucbase-Lab.git
 ```
 
 Within the configured course parent project, build the SQL experiment target described in `src/execution/README.md`:
